@@ -1,0 +1,19 @@
+# R
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+.Renviron
+.httr-oauth
+.Rprofile
+.Rprofile.R
+
+# Deployment records (shinyapps.io account details)
+rsconnect/
+
+# macOS / IDE
+.DS_Store
+._*
+*.code-workspace

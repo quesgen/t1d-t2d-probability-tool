@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper and this repository."
+title: "Prototype tool to estimate the probability of type 1 diabetes in adults with new-onset diabetes"
+type: software
+authors:
+  - family-names: Kohn
+    given-names: Michael A.
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/quesgen/t1d-t2d-probability-tool"
+url: "https://www.diabetestechnology.org/t1dvt2d"
+keywords:
+  - type 1 diabetes
+  - type 2 diabetes
+  - diagnostic probability
+  - likelihood ratio
+  - shiny
